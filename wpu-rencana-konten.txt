@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
 - Javascript
+  - ES6
+  - Framwoek JAvascript
 - PHP Framework
 - INterview
 - VLOG
