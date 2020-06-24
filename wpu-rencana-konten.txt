@@ -5,6 +5,8 @@ RENCANA KONTEN WPU
   - Framwoek JAvascript
     - Vue JS
     - React JS
+- PHP Framework
+  - Laravel   
 - Struktur Data Dasar
 - PHP Framework
   - Laravael
